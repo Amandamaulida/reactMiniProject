@@ -1,4 +1,4 @@
-# NOTE !!!#
+# NOTE
 
 Backend menggunakan Json server yang di pull dibimbing-react-student:master from Amandamaulida:dev dengan judul " backend minpro hasil forking dan clone"
 
